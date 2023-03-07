@@ -1,0 +1,81 @@
+[33mcommit bfbc9b2d2d8487bd76786f23cce76b5e808449e8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Tue Mar 7 09:41:02 2023 -0800
+
+    My first commit
+
+[33mcommit da81e2ef0a21ad53e67ee4e6873677f9fb738089[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Fri Mar 3 06:59:56 2023 -0800
+
+    push
+
+[33mcommit b000d1e03c05c8b39a4f7320c8db9c5937a91e39[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Thu Mar 2 10:20:27 2023 -0800
+
+    How to be up to date in git
+
+[33mcommit 5a50f3adb5c3fe9cf9fe0d58d0a7b9102ed62c90[m
+Merge: e813e43 2b2ef7f
+Author: Sharp-john <125484201+Sharp-john@users.noreply.github.com>
+Date:   Thu Mar 2 21:12:58 2023 +0300
+
+    Merge pull request #1 from Sharp-john/update_script
+    
+    Update script
+
+[33mcommit 2b2ef7f41a6ff560a9e81cd044252bf85746a2ed[m[33m ([m[1;31morigin/update_script[m[33m, [m[1;32mupdate_script[m[33m)[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Thu Mar 2 09:59:10 2023 -0800
+
+    my personal work
+
+[33mcommit b913f85c8488d5eec456e7c574e6c7d235bbc17e[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Thu Mar 2 08:58:33 2023 -0800
+
+    Hot fix
+
+[33mcommit e94cdb5f0aa10e8348e1ad8afcb9da439664a79c[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Thu Mar 2 08:53:52 2023 -0800
+
+    My personal work
+
+[33mcommit e813e4396ce31dc3abef82403459933f22b09512[m
+Merge: ab623d9 174edeb
+Author: john <john.wanjiru@hotmail.com>
+Date:   Thu Mar 2 08:27:51 2023 -0800
+
+    Merge branch 'master' of https://github.com/Sharp-john/alx-pre_course
+
+[33mcommit ab623d900e74f575c5d2b6a66ecde270cdfbe549[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Thu Mar 2 08:27:00 2023 -0800
+
+    Starting to code today, so cool
+
+[33mcommit 174edebf5df357a2deb74d5893e405d2b222100d[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Thu Mar 2 08:22:37 2023 -0800
+
+    better
+
+[33mcommit bb08ed520e4b0883cb9ea0c9d44228235bcc8027[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Thu Mar 2 08:10:46 2023 -0800
+
+    Still going
+
+[33mcommit 9657154b2ebc25155351a48f48acafd0e2c6d283[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Thu Mar 2 07:29:11 2023 -0800
+
+    my 2nd commit:
+
+[33mcommit ce4da25c2073886fdb09e612daf861b028ffa3d6[m
+Author: john <john.wanjiru@hotmail.com>
+Date:   Thu Mar 2 07:02:53 2023 -0800
+
+    My first commit
